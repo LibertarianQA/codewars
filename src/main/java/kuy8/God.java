@@ -1,5 +1,6 @@
 package kuy8;
 
+// https://www.codewars.com/kata/547274e24481cfc469000416
 public class God {
     public static Human[] create(){
         Human[] humans = new Human[2];
